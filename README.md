@@ -1,3 +1,4 @@
+![Banner](https://github.com/Maloani/Maloani/raw/main/georges.png)
 
 # 👋 Hi, I'm Maloani Saidi Georges
 
