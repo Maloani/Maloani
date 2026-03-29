@@ -1,4 +1,6 @@
-<img src="https://github.com/Maloani/Maloani/raw/main/georges.png" width="50%">
+<p align="center">
+  <img src="https://github.com/Maloani/Maloani/raw/main/georges.png" width="50%" style="border-radius:10px;">
+</p>
 
 # 👋 Hi, I'm Maloani Saidi Georges
 
