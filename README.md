@@ -1,4 +1,4 @@
-![Banner](https://github.com/Maloani/Maloani/raw/main/georges.png)
+<img src="https://github.com/Maloani/Maloani/raw/main/georges.png" width="100%">
 
 # 👋 Hi, I'm Maloani Saidi Georges
 
