@@ -1,4 +1,4 @@
-<img src="https://github.com/Maloani/Maloani/raw/main/georges.png" width="100%">
+<img src="https://github.com/Maloani/Maloani/raw/main/georges.png" width="50%">
 
 # 👋 Hi, I'm Maloani Saidi Georges
 
