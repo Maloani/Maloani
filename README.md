@@ -37,8 +37,6 @@ I am a passionate engineer, researcher, and tech entrepreneur specializing in:
 - 🤖 AI Traffic Prediction (LSTM)
 - 🌍 Smart City Platform for Africa
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maloani&theme=tokyo-night)
-
 ## 🔥 Featured Projects
 
 ### 🚦 MS-Trans – Smart Transport Platform
