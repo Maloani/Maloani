@@ -153,6 +153,11 @@ Biometric access control system using AI and IoT.
 
 ## 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai)
+![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
 ### 🚀 Programming
 - Python 🐍
 - Java ☕
@@ -183,7 +188,6 @@ Biometric access control system using AI and IoT.
 ## 📈 GitHub Stats
 
 ![Georges GitHub stats](https://github-readme-stats.vercel.app/api?username=Maloani&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 🌍 Availability
