@@ -1,4 +1,9 @@
+
 # 👋 Hi, I'm Maloani Saidi Georges
+
+![Profile Views](https://komarev.com/ghpvc/?username=Maloani&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Maloani?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Maloani?style=social)
 
 🎓 PhD Candidate in Computer Science (Big Data, AI & IoT)  
 🏫 School of Science & Engineering – Computer Science Department  
@@ -22,6 +27,14 @@ I am a passionate engineer, researcher, and tech entrepreneur specializing in:
 💡 My mission: **Leverage AI, Big Data and IoT to solve real-world challenges in Africa**
 
 ---
+
+## 🚀 Currently Working On
+
+- 🚦 Smart Transport System (MS-Trans)
+- 🤖 AI Traffic Prediction (LSTM)
+- 🌍 Smart City Platform for Africa
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maloani&theme=tokyo-night)
 
 ## 🔥 Featured Projects
 
