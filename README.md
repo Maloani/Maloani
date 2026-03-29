@@ -187,8 +187,9 @@ Biometric access control system using AI and IoT.
 
 ## 📈 GitHub Stats
 
-![Georges GitHub stats](https://github-readme-stats.vercel.app/api?username=Maloani&show_icons=true&theme=tokyonight)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maloani&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ## 🌍 Availability
 
