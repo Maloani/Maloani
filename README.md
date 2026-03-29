@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Maloani/Maloani/raw/main/georges.png" width="40%" style="border-radius:10px;">
-</p>
-
 # 👋 Hi, I'm Maloani Saidi Georges
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maloani&color=blue)
